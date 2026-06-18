@@ -1,0 +1,143 @@
+🤖 TILA TECH BOT COMMANDS
+
+/start - Start the bot
+/help - Show help menu
+/menu - Open command menu
+/about - About the bot
+/info - Bot information
+/ping - Check bot speed
+/runtime - Bot runtime
+/uptime - Server uptime
+/status - Bot status
+
+👥 GROUP COMMANDS
+
+/link - Get group link
+/revoke - Reset group link
+/tagall - Mention all members
+/hidetag - Hidden mention
+/admins - Show admins
+/setname - Change group name
+/setdesc - Change group description
+/warn - Warn member
+/warnings - View warnings
+/resetwarn - Reset warnings
+/mute - Mute member
+/unmute - Unmute member
+/kick - Kick member
+/ban - Ban member
+/unban - Unban member
+
+🛡️ SECURITY
+
+/antilink - Anti-link protection
+/antispam - Anti-spam protection
+/antibot - Anti-bot protection
+/antiflood - Anti-flood protection
+/captcha - Verification system
+/verify - Verify member
+/unverify - Remove verification
+/lock - Lock group
+/unlock - Unlock group
+
+📥 DOWNLOAD
+
+/play - Search music
+/ytmp3 - Download MP3
+/ytmp4 - Download MP4
+/tiktok - Download TikTok
+/instagram - Download Instagram media
+/facebook - Download Facebook video
+/spotify - Spotify downloader
+/mediafire - MediaFire downloader
+/apk - APK search
+
+🎨 MEDIA
+
+/sticker - Create sticker
+/toimg - Sticker to image
+/tomp3 - Video to MP3
+/tovn - Audio to voice note
+/togif - Video to GIF
+/tourl - Upload media to URL
+/tts - Text to speech
+/qc - Quote sticker
+
+🔍 SEARCH
+
+/google - Google search
+/wiki - Wikipedia search
+/youtube - Search YouTube
+/news - Latest news
+/weather - Weather report
+/github - GitHub search
+/npm - NPM package search
+/translate - Translate text
+/currency - Currency converter
+
+😂 FUN
+
+/joke - Random joke
+/meme - Random meme
+/truth - Truth question
+/dare - Dare challenge
+/roast - Funny roast
+/compliment - Compliment user
+/love - Love calculator
+/8ball - Magic 8-ball
+/fact - Random fact
+/quote - Inspirational quote
+
+🎮 GAMES
+
+/tictactoe
+/hangman
+/guess
+/math
+/quiz
+/riddle
+/slot
+/dice
+/chess
+/wordgame
+
+💰 ECONOMY
+
+/balance
+/daily
+/weekly
+/work
+/deposit
+/withdraw
+/shop
+/buy
+/sell
+/inventory
+/leaderboard
+/transfer
+
+🧩 UTILITIES
+
+/calc
+/qr
+/readqr
+/shortlink
+/timer
+/reminder
+/afk
+/timezone
+/countdown
+/password
+
+👑 OWNER
+
+/broadcast
+/block
+/unblock
+/restart
+/shutdown
+/setbotname
+/setbotpic
+/setstatus
+
+🚀 TILA TECH BOT • PRO MAX EDITION
