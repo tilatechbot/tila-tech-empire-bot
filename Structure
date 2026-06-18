@@ -1,0 +1,159 @@
+TILA-TECH-BOT/
+│
+├── package.json
+├── package-lock.json
+├── index.js
+├── .env
+├── README.md
+│
+├── config/
+│   ├── bot.js
+│   ├── settings.js
+│   ├── database.js
+│   └── owner.js
+│
+├── commands/
+│   │
+│   ├── system/
+│   │   ├── start.js
+│   │   ├── help.js
+│   │   ├── menu.js
+│   │   ├── ping.js
+│   │   ├── runtime.js
+│   │   ├── uptime.js
+│   │   ├── status.js
+│   │   └── about.js
+│   │
+│   ├── group/
+│   │   ├── link.js
+│   │   ├── revoke.js
+│   │   ├── tagall.js
+│   │   ├── hidetag.js
+│   │   ├── admins.js
+│   │   ├── warn.js
+│   │   ├── mute.js
+│   │   ├── unmute.js
+│   │   ├── kick.js
+│   │   ├── ban.js
+│   │   └── unban.js
+│   │
+│   ├── security/
+│   │   ├── antilink.js
+│   │   ├── antispam.js
+│   │   ├── antibot.js
+│   │   ├── antiflood.js
+│   │   ├── captcha.js
+│   │   ├── verify.js
+│   │   ├── lock.js
+│   │   └── unlock.js
+│   │
+│   ├── download/
+│   │   ├── play.js
+│   │   ├── ytmp3.js
+│   │   ├── ytmp4.js
+│   │   ├── tiktok.js
+│   │   ├── instagram.js
+│   │   ├── facebook.js
+│   │   ├── spotify.js
+│   │   └── mediafire.js
+│   │
+│   ├── media/
+│   │   ├── sticker.js
+│   │   ├── toimg.js
+│   │   ├── tomp3.js
+│   │   ├── tovn.js
+│   │   ├── togif.js
+│   │   ├── tourl.js
+│   │   ├── tts.js
+│   │   └── qc.js
+│   │
+│   ├── search/
+│   │   ├── google.js
+│   │   ├── wiki.js
+│   │   ├── youtube.js
+│   │   ├── news.js
+│   │   ├── weather.js
+│   │   ├── github.js
+│   │   ├── npm.js
+│   │   └── translate.js
+│   │
+│   ├── fun/
+│   │   ├── joke.js
+│   │   ├── meme.js
+│   │   ├── truth.js
+│   │   ├── dare.js
+│   │   ├── roast.js
+│   │   ├── love.js
+│   │   ├── quote.js
+│   │   └── fact.js
+│   │
+│   ├── games/
+│   │   ├── tictactoe.js
+│   │   ├── hangman.js
+│   │   ├── quiz.js
+│   │   ├── riddle.js
+│   │   ├── chess.js
+│   │   └── dice.js
+│   │
+│   ├── economy/
+│   │   ├── balance.js
+│   │   ├── daily.js
+│   │   ├── weekly.js
+│   │   ├── work.js
+│   │   ├── deposit.js
+│   │   ├── withdraw.js
+│   │   ├── shop.js
+│   │   ├── buy.js
+│   │   └── transfer.js
+│   │
+│   ├── utility/
+│   │   ├── calc.js
+│   │   ├── qr.js
+│   │   ├── readqr.js
+│   │   ├── timer.js
+│   │   ├── reminder.js
+│   │   ├── afk.js
+│   │   ├── password.js
+│   │   └── countdown.js
+│   │
+│   └── owner/
+│       ├── broadcast.js
+│       ├── block.js
+│       ├── unblock.js
+│       ├── restart.js
+│       ├── shutdown.js
+│       ├── setbotname.js
+│       ├── setbotpic.js
+│       └── setstatus.js
+│
+├── events/
+│   ├── ready.js
+│   ├── message.js
+│   ├── callback.js
+│   ├── groupJoin.js
+│   ├── groupLeave.js
+│   └── error.js
+│
+├── handlers/
+│   ├── commandHandler.js
+│   ├── eventHandler.js
+│   ├── permissionHandler.js
+│   └── cooldownHandler.js
+│
+├── database/
+│   ├── users.json
+│   ├── groups.json
+│   ├── economy.json
+│   ├── warns.json
+│   └── settings.json
+│
+├── assets/
+│   ├── images/
+│   ├── stickers/
+│   ├── fonts/
+│   └── audio/
+│
+└── logs/
+    ├── bot.log
+    ├── errors.log
+    └── commands.log
